@@ -42,7 +42,7 @@ city = random.choice(city_list)
 cloumn_1 = random.randint(1, 1000)
 ```
 
-脚本核心函数 **generate_fakedata_file **，生成一个 csv 文件，文件中的每一行是以 | 作为分隔符的数据，如下图中的两行数据。
+脚本核心函数generate_fakedata_file，生成一个 csv 文件，文件中的每一行是以 | 作为分隔符的数据，如下图中的两行数据。
 
 
 ```
