@@ -11,7 +11,7 @@ from faker import Fakerimport numpy as npfrom province_city import province_city
 ```
 
 其中 faker 和 numpy 需要额外安装。
-[Faker](https://github.com/joke2k/faker)是一个可以让你生成模拟数据的 Python 包。使用方法可以参见 Faker 的文档，[https://faker.readthedocs.io]
+[Faker](https://github.com/joke2k/faker)是一个可以让你生成模拟数据的 Python 包。使用方法可以参见 Faker 的[文档](https://faker.readthedocs.io).
 
 
 ```
