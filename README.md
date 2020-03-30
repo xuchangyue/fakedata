@@ -1,5 +1,3 @@
-# Readme
-
 genFakeData.py为核心代码脚本，用于生成模拟数据文件。
 
 province_city.py保存了中国34个省份和对应城市的数据。
