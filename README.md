@@ -7,7 +7,13 @@ genFakeData.py脚本中使用了以下 Python 包：
 
 
 ```
-from faker import Fakerimport numpy as npfrom province_city import province_cityimport randomimport datetimeimport hashlibfrom multiprocessing import Process
+from faker import Faker
+import numpy as np
+from province_city import province_city
+import random
+import datetime
+import hashlib
+from multiprocessing import Process
 ```
 
 其中 faker 和 numpy 需要额外安装。
